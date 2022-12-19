@@ -18,7 +18,9 @@
 }
 
 body {
-   
+    background-image: url("back4.png");
+    background-size:cover;
+  
     
     font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
