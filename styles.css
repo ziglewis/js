@@ -64,13 +64,13 @@ button {
     font-weight: bold;
     width: 40%;
     height: 7%;
-    margin-top: 50%;
+    margin-top: 55%;
     margin-bottom: 15px;
     border-radius: 5px;
 }
 
 #increment-btn {
-    background: rgb(116, 114, 247);
+    background: rgb(221, 44, 13);
 }
 
 #save-btn {
