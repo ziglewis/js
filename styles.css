@@ -12,7 +12,8 @@
  background-image: url("station1.jpg");
  width: 700px;
  background-size:cover;
- height: fit-content;
+ height: 100%;
+ overflow: hidden;
  margin: auto;
  border: 5px solid gold;
 }
@@ -62,13 +63,14 @@ button {
     color: white;
     font-weight: bold;
     width: 40%;
+    height: 7%;
     margin-top: 50%;
     margin-bottom: 15px;
     border-radius: 5px;
 }
 
 #increment-btn {
-    background: rgb(231, 36, 36);
+    background: rgb(116, 114, 247);
 }
 
 #save-btn {
