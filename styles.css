@@ -46,7 +46,7 @@ h2 {
 
 p{
     margin: 15% auto 0%;
-    height: 10%;
+    height: 15%;
     width: 60%;
     overflow-y: auto;
     background-color: ghostwhite;
@@ -61,14 +61,14 @@ button {
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 20%;
+    width: 40%;
     margin-top: 50%;
     margin-bottom: 15px;
     border-radius: 5px;
 }
 
 #increment-btn {
-    background: darkred;
+    background: rgb(231, 36, 36);
 }
 
 #save-btn {
@@ -87,7 +87,7 @@ button {
 
         .app{
           
-            height: 150%;
+            height: fit-content;
         }
    
     }
